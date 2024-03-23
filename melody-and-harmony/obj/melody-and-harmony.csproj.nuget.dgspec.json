@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\GitJozo\\melody-and-harmony\\melody-and-harmony\\melody-and-harmony.csproj": {}
+  },
+  "projects": {
+    "P:\\GitJozo\\melody-and-harmony\\melody-and-harmony\\melody-and-harmony.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\GitJozo\\melody-and-harmony\\melody-and-harmony\\melody-and-harmony.csproj",
+        "projectName": "melody-and-harmony",
+        "projectPath": "P:\\GitJozo\\melody-and-harmony\\melody-and-harmony\\melody-and-harmony.csproj",
+        "packagesPath": "C:\\Users\\REPE\\.nuget\\packages\\",
+        "outputPath": "P:\\GitJozo\\melody-and-harmony\\melody-and-harmony\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\REPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\REPE\\Documents\\UiPath": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\melody-and-harmony.props" />
+</Project>
